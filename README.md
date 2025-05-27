@@ -8,7 +8,7 @@
 
 I'm an enthusiastic Junior Data Scientist with a strong foundation in data collection, organization, and analysis. I specialize in building **data-driven solutions**, developing **ETL pipelines**, and designing **predictive models** that solve real business problems. With hands-on experience in **data cleaning**, **feature engineering**, and **business intelligence**, I'm passionate about transforming raw data into powerful insights.
 
-Currently, I’m advancing my knowledge through the **Data Science & Analytics program at LuxDev Academy**, while working part-time at **LT Labs** on real-world data science projects.
+Currently, I’m advancing my knowledge through the **Data Science & Analytics program at LuxDev Academy**.
 
 ---
 
@@ -16,7 +16,7 @@ Currently, I’m advancing my knowledge through the **Data Science & Analytics p
 
 **Languages & Tools:**  
 `Python` | `SQL` | `Excel` | `Power Query`  
-`Power BI` | `Tableau` | `PostgreSQL` | `AWS` | `Azure`
+`Power BI` |`PostgreSQL` |
 
 **Core Skills:**  
 - Data Analysis & Modeling  
